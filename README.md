@@ -1,5 +1,5 @@
 # data_structures
-all the data structures except in python
+all the data structures in python
 
 COVERING ALL THE DATA STRUCTURES IN PYTHON...
 FOR FUTURE REFERENCE...
