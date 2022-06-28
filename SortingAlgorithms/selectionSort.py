@@ -1,6 +1,8 @@
-#Selection sort sorts an array by repeatedly finding the minimum element...
+'''
+Selection sort sorts an array by repeatedly finding the min element
+from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array
+'''
 
-#Time Complexity = O(n^2)
 
 '''
 -Initialize minimum value (min_idx) to location 0
